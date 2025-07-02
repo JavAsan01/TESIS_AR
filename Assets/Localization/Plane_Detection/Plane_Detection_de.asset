@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Plane_Detection_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 79ef1a96234059144ad7fd411efc7c21, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1331691454464
+    m_Localized: Fuchs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1331745980416
+    m_Localized: Wolf Paramo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3065478316032
+    m_Localized: Augmented Reality in der Welt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671254011904
+    m_Localized: "Wei\xDFwedelhirsch"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671304343552
+    m_Localized: Andenkondor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671304343553
+    m_Localized: Brille Brille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826229993177088
+    m_Localized: "Der Andenfuchs ist ein fleischfressendes S\xE4ugetier der Familie
+      Canidae. Das Fell variiert in den Farben, von grauen und braunen T\xF6nen bis
+      hin zu r\xF6tlich, je nach Region und Saison. Im Allgemeinen ist sein Fell
+      dicht und weich, angepasst an die klimatischen Bedingungen der hohen Berge,
+      in denen sie normalerweise leben, wie z. B. Cotopaxi National Park."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230039314432
+    m_Localized: "Das wei\xDFe Hirsch ist ein mittlerer bis gro\xDFer Gelehrter mit
+      einer rotbraunen Farbe und im Winter grau. Sein Name kommt vom Boden des Schwanzes,
+      der wei\xDF ist und aufweist, wenn sie wachsam sind. Sie haben einen leichteren
+      Bauch und in einigen F\xE4llen wei\xDFe Flecken im Hals und im Bauch."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230043508736
+    m_Localized: "Das Andenkondor (Vultur Gryphus) ist eine majest\xE4tische Art
+      von Rapa Ave, die in den Bergregionen S\xFCdamerikas gesichtet werden kann,
+      einschlie\xDFlich Gebieten in der N\xE4he des Cotopaxi -Nationalparks in Ecuador."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230043508737
+    m_Localized: "Die Gl\xE4ser (Tremarctos ornatus), auch als Andenb\xE4r bekannt,
+      ist eine Art einheimischer B\xE4r in S\xFCdamerika und der einzige B\xE4r in
+      dieser Region. Es kann in Berglebensr\xE4umen wie dem Cotopaxi -Nationalpark
+      in Ecuador gefunden werden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814768926720
+    m_Localized: Museum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452672
+    m_Localized: Museumseingang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452673
+    m_Localized: Bergsteigen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452674
+    m_Localized: Avenida de Los Vulkane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452675
+    m_Localized: Die Caracara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452676
+    m_Localized: "Lagunen in der N\xE4he des Eiss"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452677
+    m_Localized: Information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452678
+    m_Localized: Eruptionen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452679
+    m_Localized: Geschenkeladen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452680
+    m_Localized: Unterschlupf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452681
+    m_Localized: Blick auf den Tierheim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452682
+    m_Localized: Gehen Sie zum Tierheim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452683
+    m_Localized: Gehen Sie zum Tierheim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452684
+    m_Localized: Innenraum des Tierheims
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452685
+    m_Localized: "\xDCber das Tierheim"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452686
+    m_Localized: Lagune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452687
+    m_Localized: Laguna Spring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1967584039600128
+    m_Localized: "Wenn Sie den RA -Modus verwenden, stellen Sie sicher, dass Sie
+      sich an einem sicheren Ort befinden und dass alle Minderj\xE4hrigen jederzeit
+      unter der Aufsicht sind."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1983531328667648
+    m_Localized: Verstanden
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

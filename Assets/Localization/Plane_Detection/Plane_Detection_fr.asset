@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Plane_Detection_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 79ef1a96234059144ad7fd411efc7c21, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1331691454464
+    m_Localized: Renard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1331745980416
+    m_Localized: Loup paramo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3065478316032
+    m_Localized: "R\xE9alit\xE9 augment\xE9e dans le monde"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671254011904
+    m_Localized: Cerf de Virginie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671304343552
+    m_Localized: Condor Ande
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671304343553
+    m_Localized: "Ours \xE0 lunettes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826229993177088
+    m_Localized: "Le renard andine est un mammif\xE8re carnivore appartenant \xE0
+      la famille des Canidae. Sa fourrure varie en couleurs, des tons gris et bruns
+      au rouge\xE2tre, selon la r\xE9gion et la saison. G\xE9n\xE9ralement, sa fourrure
+      est dense et douce, adapt\xE9e aux conditions climatiques des hautes montagnes
+      o\xF9 ils vivent habituellement, comme le parc national de Cotopaxi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230039314432
+    m_Localized: "Le cerf \xE0 queue de blanc est un \xE9rudit moyen \xE0 grand,
+      avec une couleur brun rouge\xE2tre et plus gris\xE2tre en hiver. Son nom vient
+      du bas de la queue, qui est blanc et monte quand ils sont alertes. Ils ont
+      un ventre plus l\xE9ger et, dans certains cas, ils ont des taches blanches
+      dans la gorge et l'abdomen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230043508736
+    m_Localized: "Le condor andin (Vultur gryphus) est une esp\xE8ce majestueuse
+      de Rapa Ave qui peut \xEAtre aper\xE7ue dans les r\xE9gions montagneuses d'Am\xE9rique
+      du Sud, y compris des zones pr\xE8s du parc national de Cotopaxi en \xC9quateur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230043508737
+    m_Localized: "Les verres de lunettes (Tremarctos ornatus), \xE9galement connus
+      sous le nom d'ours andan, est une sorte d'ours indig\xE8ne en Am\xE9rique du
+      Sud et est le seul ours dans cette r\xE9gion. Il peut \xEAtre trouv\xE9 dans
+      les habitats de montagne, comme le parc national de Cotopaxi en \xC9quateur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814768926720
+    m_Localized: "Mus\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452672
+    m_Localized: "Entr\xE9e du mus\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452673
+    m_Localized: Alpinisme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452674
+    m_Localized: Volcanes avenida de los
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452675
+    m_Localized: Le caracara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452676
+    m_Localized: "Lagunes pr\xE8s de la glace"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452677
+    m_Localized: Information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452678
+    m_Localized: "\xC9ruptions"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452679
+    m_Localized: Boutique de souvenirs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452680
+    m_Localized: Abri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452681
+    m_Localized: Vue de l'abri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452682
+    m_Localized: Marcher jusqu'au refuge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452683
+    m_Localized: Marcher jusqu'au refuge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452684
+    m_Localized: "Int\xE9rieur de l'abri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452685
+    m_Localized: "\xC0 propos du refuge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452686
+    m_Localized: lagune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452687
+    m_Localized: Laguna Spring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1967584039600128
+    m_Localized: "Lorsque vous utilisez le mode RA, assurez-vous que vous \xEAtes
+      dans un endroit s\xFBr et que tous les mineurs sont sous la supervision \xE0
+      tout moment."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1983531328667648
+    m_Localized: Compris
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

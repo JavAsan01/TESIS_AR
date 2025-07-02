@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Guia_Dic_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 245c74c2a033cc64a8d5c6a5dcd8a97a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1353215598592
+    m_Localized: Informations essentielles pour visiter le PNC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2020257987006464
+    m_Localized: HISTOIRE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2020258079281152
+    m_Localized: INFORMATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2020258079281153
+    m_Localized: Conseils pour les visiteurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2020258087669760
+    m_Localized: Voir les cartes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2020258087669761
+    m_Localized: "Itin\xE9raires"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2021449613938688
+    m_Localized: Histoire du parc national de Cotopaxi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2022700674158592
+    m_Localized: Volcan cotopaxi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2022700674158593
+    m_Localized: "Cotopaxi est un stratovolcano qui s'\xE9l\xE8ve \xE0 environ 5,897
+      m\xE8tres d'altitude, ce qui en fait l'un des volcans les plus \xE9lev\xE9s
+      du monde. Il est connu pour sa forme presque parfaite et son activit\xE9 \xE9ruptive
+      p\xE9riodique. Avant l'arriv\xE9e des Europ\xE9ens dans la r\xE9gion, le volcan
+      Cotopaxi a \xE9t\xE9 v\xE9n\xE9r\xE9 par les civilisations autochtones locales,
+      qui l'ont consid\xE9r\xE9e comme sacr\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2022700674158594
+    m_Localized: Signification de Cotopaxi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2022700674158595
+    m_Localized: "Le nom \"Cotopaxi\" vient de la langue Kichwa, \"Cotopaxi\" d\xE9rive
+      des mots \"kutu\", qui signifie \"cou\" et \"Paxi\", qui signifie \"lune\".
+      Par cons\xE9quent, la signification approximative de \"Cotopaxi\" dans Kichwa
+      est \"Luna Cuello\". Bien que l'on dit qu'elle vient de Panzaleo et que sa
+      signification est \"High Mountain\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557149442048
+    m_Localized: "Pire \xE9ruptions"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356608
+    m_Localized: "Le Cotopaxi a eu de nombreuses \xE9ruptions tout au long de son
+      histoire. L'une des \xE9ruptions les plus d\xE9vastatrices s'est produite en
+      1877, lorsqu'une grande explosion a g\xE9n\xE9r\xE9 des flux pyroclastiques
+      et des lahars qui ont gravement affect\xE9 les communaut\xE9s environnantes.
+      Une autre \xE9ruption notable a eu lieu en 1904, qui a \xE9galement g\xE9n\xE9r\xE9
+      des flux pyroclastiques et des lahars qui ont caus\xE9 des dommages importants
+      \xE0 la r\xE9gion."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356609
+    m_Localized: Premiers habitants
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356610
+    m_Localized: "Avant l'arriv\xE9e des Espagnols, la r\xE9gion autour de Cotopaxi
+      \xE9tait habit\xE9e par diverses communaut\xE9s autochtones, dont les Puruh\xE1es,
+      les Panzaleos et les Ca\xF1aris. Ces communaut\xE9s avaient leurs propres cultures
+      et traditions et maintenaient une relation spirituelle avec le volcan et la
+      nature environnante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356611
+    m_Localized: Parc national de Cotopaxi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356612
+    m_Localized: "Avant sa d\xE9signation de parc national en 1975, cette zone \xE9tait
+      principalement utilis\xE9e pour l'agriculture et le b\xE9tail par les communaut\xE9s
+      locales, il s'agit actuellement d'une zone prot\xE9g\xE9e situ\xE9e dans les
+      provinces de Cotopaxi, Pichincha et Napo. C'\xE9tait le premier parc national
+      \xE0 \xEAtre cr\xE9\xE9 sur le territoire continental de l'\xC9quateur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356613
+    m_Localized: "INFORMATIONS G\xC9N\xC9RALES"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356614
+    m_Localized: INTRODUCTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356615
+    m_Localized: "\xC9cosyst\xE8me"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356616
+    m_Localized: FLORE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356617
+    m_Localized: FAUNE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356618
+    m_Localized: Glacier et lagon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356619
+    m_Localized: "ACTIVIT\xC9S"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356620
+    m_Localized: "R\xE8gles \xE0 suivre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356621
+    m_Localized: "Le parc national de Cotopaxi est une destination embl\xE9matique
+      en \xC9quateur, reconnue pour sa beaut\xE9 naturelle, sa diversit\xE9 biologique
+      et son importance culturelle et historique. C'est un endroit id\xE9al pour
+      les amateurs de nature et les aventuriers qui cherchent \xE0 explorer les paysages
+      de haute montagne et connaissent la riche biodiversit\xE9 des landes andins."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356622
+    m_Localized: "Images d'entr\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356623
+    m_Localized: "Il s'agit principalement d'un \xE9cosyst\xE8me en friche, qui est
+      une r\xE9gion de haute montagne situ\xE9e entre la limite sup\xE9rieure de
+      la for\xEAt et la ligne de neige perp\xE9tuelle. Les landes sont des \xE9cosyst\xE8mes
+      uniques et hautement sp\xE9cialis\xE9s, caract\xE9ris\xE9s par sa v\xE9g\xE9tation
+      de haute montagne, ses sols humides et une diversit\xE9 d'esp\xE8ces."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356624
+    m_Localized: "Images d'\xE9cosyst\xE8me"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356625
+    m_Localized: "La flore du parc national de Cotopaxi est tr\xE8s diversifi\xE9e
+      et est adapt\xE9e aux conditions de la lande. Il y a de vastes landes de paille
+      (Stipa Ichu), une herbe pr\xE9dominante dans la r\xE9gion. En tant que plantes
+      repr\xE9sentatives telles que Chuquiraguael (Chuquiraga jussieui), Frailej\xF3n
+      (Espeletia spp.), El Romerillo (Libocerus decurrens), The Polylepis (Polylepis
+      spp.), Alchemila, colonies de plantes sous la forme de oreillers, Moss, Romelios,
+      Quehuar or Arbre de Dieu et Morti\xF1o parmi les autres plantes adapt\xE9es
+      au froid et \xE0 l'altitude. En neige perp\xE9tu\xE9e, il n'y a pas de v\xE9g\xE9tation."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356626
+    m_Localized: Images de flore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356627
+    m_Localized: "Cette r\xE9serve abrite une vari\xE9t\xE9 d'esp\xE8ces animales.
+      Parmi les mammif\xE8res qui habitent les cotopaxi, il y a les cam\xE9lides
+      sud-am\xE9ricaines comme la flamme, tout comme il y a des chevaux sauvages
+      dans les secteurs du nord et de l'est de Cotopaxi. Il y a aussi des cerfs \xE0
+      queue de blanc, des verres, du puma, des lapins sauvages, le loup de la lande,
+      le cervicabra, le zorrillo, le tsarig\xFCella ou le raposa, la souris topo
+      et la comadreja andine. Les oiseaux les plus importants sont le faucon, le
+      faucon, le canard, le hibou, le hibou, le caracara, le condor, le tuc\xE1n
+      andin et les colibris."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356628
+    m_Localized: Images de faune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356629
+    m_Localized: "En plus de sa biodiversit\xE9, le parc national de Cotopaxi est
+      connu pour ses paysages de montagne, qui comprennent des glaciers, des lagons
+      et des pics enneig\xE9s. Le Laguna de Limpungo est l'une des plus connues et
+      offre une vue imprim\xE9e sur le volcan Cotopaxi et les landes environnantes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356630
+    m_Localized: Images et lagons de glacier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356631
+    m_Localized: " Le parc national de Cotopaxi propose une vari\xE9t\xE9 d'activit\xE9s
+      r\xE9cr\xE9atives et touristiques, telles que la randonn\xE9e, l'alpinisme,
+      l'observation des oiseaux, les promenades en v\xE9lo de montagne et les excursions
+      guid\xE9es. De plus, il a des aires de pique-nique, des aires de camping et
+      des abris pour les visiteurs."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356632
+    m_Localized: "Images Activit\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9662426602455040
+    m_Localized: "Dans le parc national de Cotopaxi, comme dans toute autre zone
+      prot\xE9g\xE9e, des r\xE8gles et r\xE8glements sont \xE9tablis pour prot\xE9ger
+      l'\xE9cosyst\xE8me et garantir la s\xE9curit\xE9 des visiteurs. Ensuite, je
+      vous fournis certaines des normes typiques qui sont g\xE9n\xE9ralement appliqu\xE9es
+      dans les parcs nationaux tels que Cotopaxi: 1. Enregistrez votre visite au
+      bureau de l'information. 2. Respectez la flore et la faune: il est interdit
+      d'endommager, de collecter ou de d\xE9ranger les plantes et les animaux du
+      parc. Cela comprend ne pas nourrir des animaux sauvages, ne pas d\xE9marrer
+      les plantes et ne pas introduire d'esp\xE8ces exotiques. 3. Ne jetez pas les
+      ordures: les ordures g\xE9n\xE9r\xE9es lors de la visite et la d\xE9posez aux
+      endroits appropri\xE9s pour sa collection et son traitement ult\xE9rieurs doivent
+      \xEAtre transport\xE9s. 4. Suivez les chemins d\xE9sign\xE9s: vous devez marcher
+      uniquement sur les chemins autoris\xE9s et respecter la signalisation indiqu\xE9e
+      par les zones d'acc\xE8s interdites ou restreintes. 5. Ne faites pas de feux
+      de joie \xE0 l'ext\xE9rieur des zones d\xE9sign\xE9es: il est interdit de se
+      mettre en feu \xE0 l'ext\xE9rieur des zones autoris\xE9es et des lieux d\xE9sign\xE9s
+      pour cela. Cela aide \xE0 pr\xE9venir les incendies de for\xEAt et \xE0 prot\xE9ger
+      l'\xE9cosyst\xE8me. 6. Respectez les limites de vitesse et la circulation des
+      v\xE9hicules: En cas d'acc\xE8s dans les v\xE9hicules au parc, les limites
+      de vitesse ne doivent \xEAtre respect\xE9es que par les routes autoris\xE9es.
+      7. Ne campez pas en dehors des zones d\xE9sign\xE9es: il est interdit de camper
+      dans des zones non autoris\xE9es ou en dehors des zones d\xE9sign\xE9es pour
+      le camping. Cela aide \xE0 prot\xE9ger l'environnement naturel et \xE0 minimiser
+      l'impact humain sur l'\xE9cosyst\xE8me. 8. Ne r\xE9alisez pas les activit\xE9s
+      qui mettent en danger la s\xE9curit\xE9: des activit\xE9s telles que l'escalade
+      sans autorisation sont interdites, le d\xE9bordement des drones sans autorisation,
+      entre autres, qui peut mettre en danger la s\xE9curit\xE9 des visiteurs ou
+      de l'\xE9cosyst\xE8me. 9. Ne saisissez pas les boissons alcoolis\xE9es et /
+      ou les drogues. 10. La chasse n'est pas autoris\xE9e dans la r\xE9gion. 11.
+      Les animaux domestiques ne font pas partie de la zone prot\xE9g\xE9e. 12. Respectez
+      les chemins de la zone. Ce sont quelques-unes des r\xE8gles g\xE9n\xE9rales
+      appliqu\xE9es dans le parc national de Cotopaxi. Il est important de revoir
+      les r\xE9glementations sp\xE9cifiques du parc avant de la visiter pour garantir
+      une exp\xE9rience s\xFBre et environnementale."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9662426703118336
+    m_Localized: Cartes du parc national de Cotopaxi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9662426703118337
+    m_Localized: "Itin\xE9raires et sentiers"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

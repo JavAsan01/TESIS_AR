@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Guia_Dic_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 245c74c2a033cc64a8d5c6a5dcd8a97a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1353215598592
+    m_Localized: Informazioni essenziali per visitare il PNC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2020257987006464
+    m_Localized: STORIA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2020258079281152
+    m_Localized: INFORMAZIONE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2020258079281153
+    m_Localized: Suggerimenti per i visitatori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2020258087669760
+    m_Localized: Vedi mappe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2020258087669761
+    m_Localized: ITINERARI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2021449613938688
+    m_Localized: Storia del Parco Nazionale Cotopaxi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2022700674158592
+    m_Localized: Vulcano cotopaxi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2022700674158593
+    m_Localized: "Cotopaxi \xE8 uno stratovolcano che sale a circa 5,897 metri sul
+      livello del mare, il che lo rende uno dei vulcani pi\xF9 alti del mondo. \xC8
+      noto per la sua forma quasi perfetta e la sua periodica attivit\xE0 eruttiva.
+      Prima dell'arrivo degli europei nella regione, il vulcano Cotopaxi fu venerato
+      dalle civilt\xE0 indigene locali, che lo consideravano sacro."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2022700674158594
+    m_Localized: Significato di cotopaxi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2022700674158595
+    m_Localized: "Il nome \"Cotopaxi\" deriva dalla lingua di Kichwa, \"Cotopaxi\"
+      deriva dalle parole \"kutu\", che significa \"collo\" e \"paxi\", che significa
+      \"luna\". Pertanto, il significato approssimativo di \"cotopaxi\" a Kichwa
+      \xE8 \"Luna Cuello\". Anche se si dice che provenga in realt\xE0 da Panzaleo
+      e il suo significato \xE8 \"High Mountain\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557149442048
+    m_Localized: Peggiori eruzioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356608
+    m_Localized: "I Cotopaxi hanno avuto numerose eruzioni nel corso della sua storia.
+      Una delle eruzioni cutanee pi\xF9 devastanti avvenne nel 1877, quando una grande
+      esplosione generava flussi piroclastici e lahar che colpivano seriamente le
+      comunit\xE0 circostanti. Un'altra notevole eruzione fu nel 1904, che generava
+      anche flussi piroclastici e lahar che causarono danni significativi alla regione."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356609
+    m_Localized: Primi abitanti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356610
+    m_Localized: "Prima dell'arrivo degli spagnoli, la regione intorno a Cotopaxi
+      era abitata da varie comunit\xE0 indigene, tra cui Puruh\xE1es, Panzaleo e
+      Ca\xF1aris. Queste comunit\xE0 avevano le loro culture e tradizioni e mantenevano
+      una relazione spirituale con il vulcano e la natura circostante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356611
+    m_Localized: Parco nazionale Cotopaxi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356612
+    m_Localized: "Prima della sua designazione come parco nazionale nel 1975, quest'area
+      veniva utilizzata principalmente per l'agricoltura e il bestiame dalle comunit\xE0
+      locali, \xE8 attualmente un'area protetta situata nelle province di Cotopaxi,
+      Pichincha e Napo. Fu il primo parco nazionale ad essere creato nel territorio
+      continentale dell'Ecuador."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356613
+    m_Localized: INFORMAZIONI GENERALI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356614
+    m_Localized: INTRODUZIONE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356615
+    m_Localized: ECOSISTEMA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356616
+    m_Localized: FLORA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356617
+    m_Localized: FAUNA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356618
+    m_Localized: Glacier e laguna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356619
+    m_Localized: "Attivit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356620
+    m_Localized: Regole da seguire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356621
+    m_Localized: "Cotopaxi National Park \xE8 una destinazione emblematica in Ecuador,
+      riconosciuta per la sua naturale bellezza, la sua diversit\xE0 biologica e
+      la sua importanza culturale e storica. \xC8 un luogo ideale per gli amanti
+      della natura e gli avventurieri che cercano di esplorare paesaggi di alta montagna
+      e conoscere la ricca biodiversit\xE0 dei mori andini."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356622
+    m_Localized: Immagini di ingresso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356623
+    m_Localized: "\xC8 principalmente un ecosistema delle terre desolate, che \xE8
+      una regione alta montuosa situata tra il limite superiore della foresta e la
+      perpetua linea di neve. I mori sono ecosistemi unici e altamente specializzati,
+      caratterizzati dalla sua vegetazione alta montagna, dai terreni bagnati e da
+      una diversit\xE0 di specie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356624
+    m_Localized: Immagini ecosistemiche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356625
+    m_Localized: "La flora del parco nazionale di Cotopaxi \xE8 molto diversificata
+      ed \xE8 adattata alle condizioni della brughiera. Esistono ampi mori di paglia
+      (Stipa Ichu), un'erba predominante nella regione. Come piante rappresentative
+      come Chuquiraguael (Chuquiraga Jussieui), Frailej\xF3n (Espeletia spp.), El
+      Romerillo (Libocerus decurrens), Polylepis (Polylepis spp.), Alchemila, colonie
+      di piante nella forma di cuscini, Moss, Romelios, alcher o albero di Dio e
+      morti\xF1o tra le altre piante adattate a freddo e altitudine. Nelle nevi perpetuate
+      non c'\xE8 vegetazione."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356626
+    m_Localized: Flora Immagini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356627
+    m_Localized: "Questa riserva ospita una variet\xE0 di specie animali. Tra i mammiferi
+      che abitano cotopaxi ci sono i camelidi sudamericani come la fiamma, proprio
+      come ci sono cavalli selvaggi nei settori settentrionali e orientali di Cotopaxi.
+      Ci sono anche cervi a coda bianchi, occhiali, puma, conigli selvatici, il lupo
+      della brughiera, la cervicabra, lo zorillo, lo zarig\xFCella o la raposa, il
+      topo e il comadreja andino. Gli uccelli pi\xF9 importanti sono il falco, il
+      falco, l'anatra, il gufo, il gufo, la caracara, il condor, il tuc\xE1n andino
+      e i colibr\xEC."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356628
+    m_Localized: Immagini fauna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356629
+    m_Localized: "Oltre alla sua biodiversit\xE0, il Parco Nazionale Cotopaxi \xE8
+      noto per i suoi paesaggi di montagna, che includono ghiacciai, lagune e cime
+      innevate. La Laguna de Limpungo \xE8 una delle viste impressionanti e offre
+      una vista impressionante sul vulcano Cotopaxi e sui mori circostanti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356630
+    m_Localized: Immagini e lagune del ghiacciaio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356631
+    m_Localized: " Il Parco Nazionale Cotopaxi offre una variet\xE0 di attivit\xE0
+      ricreative e turistiche, come escursioni, alpinismo, osservazione degli uccelli,
+      passeggiate per mountain bike ed escursioni guidate. Inoltre, ha aree picnic,
+      aree da campeggio e rifugi per i visitatori."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3091557212356632
+    m_Localized: "Attivit\xE0 delle immagini"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9662426602455040
+    m_Localized: "Nel parco nazionale di Cotopaxi, come in qualsiasi altra area protetta,
+      sono stabilite norme e regolamenti per proteggere l'ecosistema e garantire
+      la sicurezza dei visitatori. Successivamente, ti fornisco alcuni degli standard
+      tipici che di solito vengono applicati in parchi nazionali come Cotopaxi: 1.
+      Registra la tua visita nell'ufficio delle informazioni. 2. Rispetta la flora
+      e la fauna: \xE8 vietato danneggiare, raccogliere o disturbare le piante e
+      gli animali del parco. Ci\xF2 include non nutrire animali selvatici, non iniziare
+      le piante e non introdurre specie esotiche. 3. Non lanciare immondizia: la
+      spazzatura generata durante la visita e la deposita nei luoghi appropriati
+      per la sua successiva raccolta e trattamento deve essere trasportato. 4. Seguire
+      i percorsi designati: \xE8 necessario camminare solo sui percorsi autorizzati
+      e rispettare la segnalazione indicata dalle aree di accesso proibite o limitate.
+      5. Non fare fal\xF2 al di fuori delle aree designate: \xE8 vietato accendere
+      il fuoco fuori dalle aree consentite e i luoghi designati per esso. Questo
+      aiuta a prevenire gli incendi boschivi e proteggere l'ecosistema. 6. Rispetta
+      i limiti di velocit\xE0 e il traffico veicolare: nel caso dell'accesso nei
+      veicoli al parco, i limiti di velocit\xE0 devono essere rispettati solo dalle
+      strade autorizzate. 7. Non accamparti al di fuori delle aree designate: \xE8
+      vietato di accamparsi in aree non autorizzate o al di fuori delle aree designate
+      per il campeggio. Questo aiuta a proteggere l'ambiente naturale e minimizzare
+      l'impatto umano sull'ecosistema. 8. Non svolgere attivit\xE0 che mettono in
+      pericolo la sicurezza: sono vietate attivit\xE0 come l'arrampicata senza autorizzazione,
+      il trabocco dei droni senza autorizzazione, tra gli altri, che pu\xF2 mettere
+      in pericolo la sicurezza dei visitatori o dell'ecosistema. 9. Non entrare in
+      bevande alcoliche e/o farmaci. 10. La caccia non \xE8 consentita nell'area.
+      11. Gli animali domestici non fanno parte dell'area protetta. 12. Rispettare
+      i percorsi dell'area. Queste sono alcune delle regole generali che vengono
+      applicate nel parco nazionale di Cotopaxi. \xC8 importante rivedere le normative
+      specifiche del parco prima di visitarlo per garantire un'esperienza sicura
+      e ambientale."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9662426703118336
+    m_Localized: Mappe del parco nazionale Cotopaxi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9662426703118337
+    m_Localized: Percorsi e sentieri
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

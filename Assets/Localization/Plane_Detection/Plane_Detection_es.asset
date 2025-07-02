@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Plane_Detection_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 79ef1a96234059144ad7fd411efc7c21, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1331691454464
+    m_Localized: Zorro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1331745980416
+    m_Localized: Lobo Paramo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3065478316032
+    m_Localized: Realidad Aumentada en el Mundo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671254011904
+    m_Localized: Venado de Cola Blanca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671304343552
+    m_Localized: Condor de Andino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671304343553
+    m_Localized: Oso de Anteojos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826229993177088
+    m_Localized: "El zorro andino es un mam\xEDfero carn\xEDvoro perteneciente a
+      la familia Canidae. Su pelaje var\xEDa en colores, desde tonos grises y marrones
+      hasta rojizos, dependiendo de la regi\xF3n y la temporada. Generalmente, su
+      pelaje es denso y suave, adaptado a las condiciones clim\xE1ticas de las altas
+      monta\xF1as donde suelen habitar, como el Parque Nacional Cotopaxi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230039314432
+    m_Localized: "El venado de cola blanca es un cervido de tama\xF1o mediano a grande,
+      con un pelaje de color marr\xF3n rojizo en verano y m\xE1s gris\xE1ceo en invierno.
+      Su nombre proviene de la parte inferior de la cola, que es blanca y se levanta
+      cuando est\xE1n alerta. Tienen un vientre m\xE1s claro y, en algunos casos,
+      presentan manchas blancas en la garganta y el abdomen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230043508736
+    m_Localized: "El c\xF3ndor andino (Vultur gryphus) es una especie majestuosa
+      de ave rapaz que puede ser avistada en las regiones monta\xF1osas de Sudam\xE9rica,
+      incluyendo \xE1reas cercanas al Parque Nacional Cotopaxi en Ecuador. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230043508737
+    m_Localized: "El oso de anteojos (Tremarctos ornatus), tambi\xE9n conocido como
+      oso andino, es una especie de oso nativa de Sudam\xE9rica y es el \xFAnico
+      oso de esta regi\xF3n. Puede encontrarse en h\xE1bitats de monta\xF1a, como
+      el Parque Nacional Cotopaxi en Ecuador."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814768926720
+    m_Localized: Museo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452672
+    m_Localized: Entrada del museo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452673
+    m_Localized: "Monta\xF1ismo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452674
+    m_Localized: Avenida de los volcanes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452675
+    m_Localized: El Caracara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452676
+    m_Localized: Lagunas cerca del hielo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452677
+    m_Localized: "Informaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452678
+    m_Localized: Erupciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452679
+    m_Localized: Tienda de regalos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452680
+    m_Localized: Refugio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452681
+    m_Localized: Vista del refugio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452682
+    m_Localized: Caminata hacia el refugio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452683
+    m_Localized: Caminata hacia el refugio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452684
+    m_Localized: Interior del refugio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452685
+    m_Localized: Sobre el refugio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452686
+    m_Localized: Laguna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452687
+    m_Localized: Muelle de la Laguna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1967584039600128
+    m_Localized: "Cuando estes usando el modo de RA aseg\xFArate de estar en un lugar
+      seguro y de que todos los menores est\xE9n bajo la supervici\xF3n en todo momento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1983531328667648
+    m_Localized: Entendido
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

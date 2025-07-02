@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Inicio_Dic_zh-Hans
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: zh-Hans
+  m_SharedData: {fileID: 11400000, guid: a64391297e9d276449675507c8e7fac0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2835600072704
+    m_Localized: "\u4E00\u79CD\u65B0\u7684\u89C2\u5BDF\u81EA\u7136\u7684\u65B9\u5F0F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2846828224512
+    m_Localized: LATOUR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936305311744
+    m_Localized: "\u6B22\u8FCE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2981373108224
+    m_Localized: "\u5730\u7406\u7A7A\u95F4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3049366970368
+    m_Localized: "\u5173\u95ED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3063006846976
+    m_Localized: "\u5F00\u59CB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3124793139200
+    m_Localized: "\u865A\u62DF\u7EF4\u5EA6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3152265830400
+    m_Localized: "\u4E92\u52A8\u7A7A\u95F4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29160821972992
+    m_Localized: "\u6307\u5BFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3194238230528
+    m_Localized: "\u865A\u62DF\u73B0\u5B9E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4026824351744
+    m_Localized: "\u95E8\u6237\u7F51\u7AD9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29737886900224
+    m_Localized: "\u201C App Latour\u201D Cotopaxi\u56FD\u5BB6\u516C\u56ED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116572726190080
+    m_Localized: "\u9009\u62E9\u8BED\u8A00"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

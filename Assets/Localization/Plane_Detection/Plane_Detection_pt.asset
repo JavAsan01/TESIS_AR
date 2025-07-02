@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Plane_Detection_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 79ef1a96234059144ad7fd411efc7c21, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1331691454464
+    m_Localized: Raposa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1331745980416
+    m_Localized: Wolf Paramo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3065478316032
+    m_Localized: Realidade aumentada no mundo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671254011904
+    m_Localized: Gazela de cauda branca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671304343552
+    m_Localized: Condor Andeano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671304343553
+    m_Localized: Copos de copos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826229993177088
+    m_Localized: "A raposa andina \xE9 um mam\xEDfero carn\xEDvoro pertencente \xE0
+      fam\xEDlia Canidae. Seu p\xEAlo varia em cores, de tons cinza e marrom a avermelhado,
+      dependendo da regi\xE3o e da esta\xE7\xE3o. Geralmente, seu p\xEAlo \xE9 denso
+      e macio, adaptado \xE0s condi\xE7\xF5es clim\xE1ticas das montanhas altas,
+      onde geralmente vivem, como o Parque Nacional Cotopaxi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230039314432
+    m_Localized: "O cervo branco \xE9 um estudioso m\xE9dio a grande, com uma cor
+      marrom avermelhada e mais acinzentada no inverno. Seu nome vem do fundo da
+      cauda, \u200B\u200Bque \xE9 branco e sobe quando est\xE1 alerta. Eles t\xEAm
+      uma barriga mais clara e, em alguns casos, t\xEAm manchas brancas na garganta
+      e no abd\xF4men."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230043508736
+    m_Localized: "O condor andino (Vultur Ghyphus) \xE9 uma esp\xE9cie majestosa
+      de Rapa Ave que pode ser avistada nas regi\xF5es montanhosas da Am\xE9rica
+      do Sul, incluindo \xE1reas pr\xF3ximas ao Parque Nacional Cotopaxi, no Equador."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230043508737
+    m_Localized: "Os \xF3culos de \xF3culos (Tremarctos ornatus), tamb\xE9m conhecidos
+      como urso andino, s\xE3o um tipo de urso nativo na Am\xE9rica do Sul e \xE9
+      o \xFAnico urso nessa regi\xE3o. Pode ser encontrado em habitats nas montanhas,
+      como o Parque Nacional Cotopaxi, no Equador."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814768926720
+    m_Localized: Museu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452672
+    m_Localized: Entrada do museu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452673
+    m_Localized: Montanhismo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452674
+    m_Localized: "Avenida de Los Volc\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452675
+    m_Localized: O Caracara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452676
+    m_Localized: Lagoas perto do gelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452677
+    m_Localized: "Informa\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452678
+    m_Localized: "Erup\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452679
+    m_Localized: Loja de presentes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452680
+    m_Localized: Abrigo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452681
+    m_Localized: Vista do abrigo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452682
+    m_Localized: "Caminhar at\xE9 o abrigo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452683
+    m_Localized: "Caminhar at\xE9 o abrigo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452684
+    m_Localized: Interior do abrigo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452685
+    m_Localized: Sobre o abrigo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452686
+    m_Localized: lagoa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452687
+    m_Localized: Spring Laguna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1967584039600128
+    m_Localized: "Quando voc\xEA estiver usando o modo RA, verifique se est\xE1 em
+      um local seguro e que todos os menores estejam sob a supervis\xE3o o tempo
+      todo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1983531328667648
+    m_Localized: Entendido
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

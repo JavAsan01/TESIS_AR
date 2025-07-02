@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Geospatial.unity
+    guid: 1ed15e9657253406185e4b2c7c5a4fc4
+  - enabled: 1
+    path: Assets/Scenes/PlaneDetection.unity
+    guid: b301db39ac16d844ba1b80e74de1f384
+  - enabled: 1
+    path: Assets/Scenes/Portal.unity
+    guid: c6fd67b476117204a9e07cadd90b40a4
+  - enabled: 1
+    path: Assets/Scenes/Informacion.unity
+    guid: 7635a0d714ef8a144972cca760f5b071
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: bacd2c87926d923488c8b99fe38e9189, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 2f1ee7979c3d3114ab2626b810247ffa, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: b37ccc4a3f7533a4daf5b298d64bf12c, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 45180ef231b66b84e8ca61e902dcb35d, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ba2c1f05e3e855f418ce6951bcbf14ce, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a5686b315ccfd384c908f84aad921745, type: 2}

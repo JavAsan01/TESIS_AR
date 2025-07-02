@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Inicio_Dic_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: a64391297e9d276449675507c8e7fac0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2835600072704
+    m_Localized: "Une nouvelle fa\xE7on de voir la nature"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2846828224512
+    m_Localized: LATOUR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936305311744
+    m_Localized: Accueillir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2981373108224
+    m_Localized: "G\xE9ospatial"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3049366970368
+    m_Localized: Fermer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3063006846976
+    m_Localized: Commencer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3124793139200
+    m_Localized: Dimension virtuelle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3152265830400
+    m_Localized: Espace interactif
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29160821972992
+    m_Localized: Guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3194238230528
+    m_Localized: "Realit\xE9 virtuel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4026824351744
+    m_Localized: Portail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29737886900224
+    m_Localized: Parc national de Cotopaxi "App Latour"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116572726190080
+    m_Localized: "S\xE9lectionnez la langue"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

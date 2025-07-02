@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Plane_Detection_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 79ef1a96234059144ad7fd411efc7c21, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1331691454464
+    m_Localized: Volpe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1331745980416
+    m_Localized: Wolf Para
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3065478316032
+    m_Localized: "Realt\xE0 aumentata nel mondo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671254011904
+    m_Localized: Cervo dalla coda bianca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671304343552
+    m_Localized: Condor andino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671304343553
+    m_Localized: Occhiali di occhiali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826229993177088
+    m_Localized: "La volpe andina \xE8 un mammifero carnivoro appartenente alla famiglia
+      Canidae. La sua pelliccia varia a colori, dai toni grigi e marroni al rossastro,
+      a seconda della regione e della stagione. In generale, la sua pelliccia \xE8
+      densa e morbida, adattata alle condizioni climatiche delle alte montagne dove
+      vivono di solito, come il parco nazionale di Cotopaxi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230039314432
+    m_Localized: "Il cervo a coda bianca \xE8 uno studioso medio -grande, con un
+      colore marrone rossastro e pi\xF9 grigiastro in inverno. Il suo nome viene
+      dal fondo della coda, che \xE8 bianco e si alza quando sono vigili. Hanno una
+      pancia pi\xF9 leggera e, in alcuni casi, hanno macchie bianche nella gola e
+      nell'addome."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230043508736
+    m_Localized: "Il condor andino (Vultur Gryphus) \xE8 una maestosa specie di Rapa
+      Ave che pu\xF2 essere avvistata nelle regioni montuose del Sud America, comprese
+      le aree vicino al Parco Nazionale Cotopaxi in Ecuador."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230043508737
+    m_Localized: "Gli occhiali di occhiali (Tremarctos ornatus), noto anche come
+      orso andino, sono una specie di orso nativo in Sud America ed \xE8 l'unico
+      orso in questa regione. Pu\xF2 essere trovato negli habitat di montagna, come
+      il parco nazionale Cotopaxi in Ecuador."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814768926720
+    m_Localized: Museo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452672
+    m_Localized: Ingresso del museo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452673
+    m_Localized: Alpinismo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452674
+    m_Localized: Avenida de los vulcanes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452675
+    m_Localized: La Caracara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452676
+    m_Localized: Lagune vicino al ghiaccio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452677
+    m_Localized: Informazione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452678
+    m_Localized: Eruzioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452679
+    m_Localized: Negozio di regali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452680
+    m_Localized: Riparo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452681
+    m_Localized: Vista del rifugio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452682
+    m_Localized: Cammina verso il rifugio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452683
+    m_Localized: Cammina verso il rifugio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452684
+    m_Localized: Interno del rifugio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452685
+    m_Localized: Sul rifugio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452686
+    m_Localized: laguna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452687
+    m_Localized: Laguna Spring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1967584039600128
+    m_Localized: "Quando si utilizza la modalit\xE0 RA, assicurati di essere in un
+      luogo sicuro e che tutti i minori siano sempre sotto la supervisione."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1983531328667648
+    m_Localized: Inteso
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

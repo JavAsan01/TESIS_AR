@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Plane_Detection Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Plane_Detection
+  m_TableCollectionNameGuidString: 79ef1a96234059144ad7fd411efc7c21
+  m_Entries:
+  - m_Id: 1331691454464
+    m_Key: Text.Zorro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826229993177088
+    m_Key: Text.DescZorro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1331745980416
+    m_Key: Text.Lobo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671254011904
+    m_Key: Text.Venado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230039314432
+    m_Key: Text.DescVenado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671304343552
+    m_Key: Text.Condor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230043508736
+    m_Key: Text.DescCondor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671304343553
+    m_Key: Text.Oso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230043508737
+    m_Key: Text.DescOso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3065478316032
+    m_Key: Text.Titlead
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1967584039600128
+    m_Key: Text.Advertencia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1983531328667648
+    m_Key: Text.Entendido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814768926720
+    m_Key: Text.Museo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452672
+    m_Key: Text.Museo1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452673
+    m_Key: Text.Museo2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452674
+    m_Key: Text.Museo3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452675
+    m_Key: Text.Museo4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452676
+    m_Key: Text.Museo5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452677
+    m_Key: Text.Museo6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452678
+    m_Key: Text.Museo7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452679
+    m_Key: Text.Museo8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452680
+    m_Key: Text.Refugio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452681
+    m_Key: Text.Refugio1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452682
+    m_Key: Text.Refugio2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452683
+    m_Key: Text.Refugio3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452684
+    m_Key: Text.Refugio4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452685
+    m_Key: Text.Refugio5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452686
+    m_Key: Text.Laguna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452687
+    m_Key: Text.Laguna1
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6035504472568365063
+  references:
+    version: 2
+    RefIds:
+    - rid: 6035504472568365063
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1708100495011

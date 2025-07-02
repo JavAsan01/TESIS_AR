@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0eab8c0108134f4b9faa018a24a5c44, type: 3}
+  m_Name: Llama
+  m_EditorClassIdentifier: 
+  ItemName: 
+  ItemImage: {fileID: 21300000, guid: c80c91dede3a5274bbdbf3205201f2af, type: 3}
+  ItemDescription: "Llama de p\xE1ramo"
+  Item3DModel: {fileID: 9001832541016083819, guid: 0be64f04c53b1044eb5e2494221a3a33, type: 3}

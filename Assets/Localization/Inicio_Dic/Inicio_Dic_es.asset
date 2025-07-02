@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Inicio_Dic_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: a64391297e9d276449675507c8e7fac0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2835600072704
+    m_Localized: UNA NUEVA FORMA DE VER LA NATURALEZA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2846828224512
+    m_Localized: LATOUR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936305311744
+    m_Localized: Bienvenido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2981373108224
+    m_Localized: Geoespacial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3049366970368
+    m_Localized: Cerrar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3063006846976
+    m_Localized: Empezar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3124793139200
+    m_Localized: "Dimensi\xF3n Virtual"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3152265830400
+    m_Localized: Espacio Interactivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29160821972992
+    m_Localized: "Gu\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3194238230528
+    m_Localized: Realidad Virtual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4026824351744
+    m_Localized: Portal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29737886900224
+    m_Localized: '"APP LATOUR" PARQUE NACIONAL COTOPAXI'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116572726190080
+    m_Localized: Selecciona el Lenguaje
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

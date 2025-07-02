@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Plane_Detection_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 79ef1a96234059144ad7fd411efc7c21, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1331691454464
+    m_Localized: Fox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1331745980416
+    m_Localized: Wolf Paramo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3065478316032
+    m_Localized: Augmented reality in the world
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671254011904
+    m_Localized: White-tailed deer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671304343552
+    m_Localized: Andean condor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538671304343553
+    m_Localized: Glasses of glasses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826229993177088
+    m_Localized: The Andean fox is a carnivorous mammal belonging to the Canidae
+      family. Its fur varies in colors, from gray and brown tones to reddish, depending
+      on the region and season. Generally, his fur is dense and soft, adapted to
+      the climatic conditions of the high mountains where they usually live, such
+      as Cotopaxi National Park.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230039314432
+    m_Localized: The white -tailed deer is a medium to large scholar, with a reddish
+      brown color and more grayish in winter. His name comes from the bottom of the
+      tail, which is white and rises when they are alert. They have a lighter belly
+      and, in some cases, they have white spots in the throat and the abdomen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230043508736
+    m_Localized: The Andean condor (Vultur Gryphus) is a majestic species of Rapa
+      Ave that can be sighted in the mountainous regions of South America, including
+      areas near the Cotopaxi National Park in Ecuador.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826230043508737
+    m_Localized: The glasses of glasses (Tremarctos ornatus), also known as Andean
+      bear, is a kind of native bear in South America and is the only bear in this
+      region. It can be found in mountain habitats, such as Cotopaxi National Park
+      in Ecuador.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814768926720
+    m_Localized: Museum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452672
+    m_Localized: Museum entrance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452673
+    m_Localized: Mountaineering
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452674
+    m_Localized: Avenida de los Volcanes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452675
+    m_Localized: The Caracara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452676
+    m_Localized: Lagoons near the ice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452677
+    m_Localized: Information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452678
+    m_Localized: Eruptions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452679
+    m_Localized: Gift shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452680
+    m_Localized: Shelter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452681
+    m_Localized: View of the shelter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452682
+    m_Localized: Walk to the shelter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452683
+    m_Localized: Walk to the shelter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452684
+    m_Localized: Interior of the shelter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452685
+    m_Localized: About the shelter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452686
+    m_Localized: lagoon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965814823452687
+    m_Localized: Laguna spring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1967584039600128
+    m_Localized: When you are using the RA mode, make sure you are in a safe place
+      and that all minors are under the supervision at all times.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1983531328667648
+    m_Localized: Understood
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
